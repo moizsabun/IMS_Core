@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Oracle.EntityFrameworkCore" Version="8.23.50" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="23.5.0" />
+  </ItemGroup>
+
 </Project>
