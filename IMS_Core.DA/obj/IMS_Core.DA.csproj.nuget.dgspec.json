@@ -51,11 +51,11 @@
           "dependencies": {
             "Oracle.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.23.50, )"
+              "version": "[8.21.140, )"
             },
             "Oracle.ManagedDataAccess.Core": {
               "target": "Package",
-              "version": "[23.5.0, )"
+              "version": "[3.21.140, )"
             }
           },
           "imports": [

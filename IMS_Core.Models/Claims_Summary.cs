@@ -10,7 +10,7 @@ namespace IMS_Core.Models
     {
         public string? USER_ID { get; set; }
         public string? ASSIGNEDCLAIMS { get; set; }
-        public string? TASk_DESC { get; set; }
+        public string? TASK_DESC { get; set; }
         public string? WF_DESC { get; set; }
         public string? TASK_ID { get; set; }
     }

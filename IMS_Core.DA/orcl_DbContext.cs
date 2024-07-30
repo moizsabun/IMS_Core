@@ -16,7 +16,8 @@ namespace IMS_Core.DA
         public DbSet<Claims_Summary> CLAIMS_SUMMARY { get; set; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
-          
+            builder.HasDefaultSchema("CWMS");
+            builder.Entity<Claims_Summary>(eb => { eb.HasNoKey(); });
         }
     }
 }

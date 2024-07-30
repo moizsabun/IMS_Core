@@ -1,0 +1,16 @@
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\bin\Debug\net8.0\IMS_Core.DA.deps.json
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\bin\Debug\net8.0\IMS_Core.DA.dll
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\bin\Debug\net8.0\IMS_Core.DA.pdb
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\bin\Debug\net8.0\IMS_Core.Models.dll
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\bin\Debug\net8.0\IMS_Core.Models.pdb
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\obj\Debug\net8.0\IMS_Core.DA.csproj.AssemblyReference.cache
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\obj\Debug\net8.0\IMS_Core.DA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\obj\Debug\net8.0\IMS_Core.DA.AssemblyInfoInputs.cache
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\obj\Debug\net8.0\IMS_Core.DA.AssemblyInfo.cs
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\obj\Debug\net8.0\IMS_Core.DA.csproj.CoreCompileInputs.cache
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\obj\Debug\net8.0\IMS_Core.DA.sourcelink.json
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\obj\Debug\net8.0\IMS_Core.DA.csproj.CopyComplete
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\obj\Debug\net8.0\IMS_Core.DA.dll
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\obj\Debug\net8.0\refint\IMS_Core.DA.dll
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\obj\Debug\net8.0\IMS_Core.DA.pdb
+D:\Application Codes\Aegis_Dashboards\IMS_Core.DA\obj\Debug\net8.0\ref\IMS_Core.DA.dll
