@@ -419,6 +419,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "IMS_Core.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/IMS_Core.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS_Core.Models.dll": {}
+        }
       }
     }
   },
@@ -1104,10 +1114,16 @@
         "system.security.cryptography.protecteddata.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "IMS_Core.Models/1.0.0": {
+      "type": "project",
+      "path": "../IMS_Core.Models/IMS_Core.Models.csproj",
+      "msbuildProject": "../IMS_Core.Models/IMS_Core.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "IMS_Core.Models >= 1.0.0",
       "Oracle.EntityFrameworkCore >= 8.23.50",
       "Oracle.ManagedDataAccess.Core >= 23.5.0"
     ]
@@ -1144,7 +1160,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Application Codes\\Aegis_Dashboards\\IMS_Core.Models\\IMS_Core.Models.csproj": {
+              "projectPath": "D:\\Application Codes\\Aegis_Dashboards\\IMS_Core.Models\\IMS_Core.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
